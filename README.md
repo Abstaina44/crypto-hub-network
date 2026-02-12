@@ -1,11 +1,6 @@
 ```markdown
 # 🚀 Crypto Hub Network
 
-[![React](https://img.shields.io/badge/React-18.x-blue.svg)](https://reactjs.org/)
-[![Vite](https://img.shields.io/badge/Vite-4.x-646CFF.svg)](https://vitejs.dev/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
-
 > **Bridging Mobile Money and Crypto Education**
 
 A modern React-based crypto onboarding platform that empowers users to buy crypto access using Mobile Money while mastering crypto trading fundamentals including technical analysis, trading psychology, and risk management.
